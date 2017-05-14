@@ -14,6 +14,8 @@
     }
 %>
 <h1>index</h1>
+
+<a href="wechat/index.jsp">Protected url by wechat: wechat/index.jsp</a> (use a real account)<br />
 <a href="facebook/index.jsp">Protected url by Facebook: facebook/index.jsp</a> (use a real account)<br />
 <a href="facebook/notprotected.jsp">Not protected page: facebook/notprotected.jsp</a> (no authentication required)<br />
 <a href="facebookadmin/index.jsp">Protected url by Facebook with ROLE_ADMIN: facebookadmin/index.jsp</a> (use a real account)<br />
