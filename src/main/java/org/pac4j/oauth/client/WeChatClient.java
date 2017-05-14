@@ -14,6 +14,9 @@ import org.pac4j.profile.wechat.WeiXinApi20;
 //import org.pac4j.scribe.builder.api.GenericApi20;
 //SAML2Client
 //FacebookClient
+/*
+ * http://jinnianshilongnian.iteye.com/blog/2018398
+ */
 
 
 public class WeChatClient extends BaseOAuth20StateClient<WeChatProfile> {
